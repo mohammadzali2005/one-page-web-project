@@ -25,6 +25,6 @@ Compared to the original fork, this version includes:
 - Deployment: GitHub Pages
 
 ## 📸 Preview
-(Live Demo)[]
+[Live Demo](https://mohammadzali2005.github.io/one-page-web-project/)
 
-!(Preview)[]
+![Preview](https://github.com/mohammadzali2005/one-page-web-project/blob/master/Thumbnail.png)
